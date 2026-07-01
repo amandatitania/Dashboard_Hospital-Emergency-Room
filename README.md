@@ -18,6 +18,8 @@ Tujuan utama pengembangan dashboard ini adalah:
 - Menyediakan informasi yang mudah dipahami oleh manajemen rumah sakit melalui visualisasi data yang interaktif.
 
 ## Dashboard Preview
+![Dashboard 1](PreviewDashboard_PowerBI.png)
+
 ## Key Performance Indicators (KPIs)
 Dashboard menampilkan beberapa indikator utama yang digunakan untuk mengevaluasi performa layanan Emergency Room, yaitu:
 1. Total Number of Patients
@@ -67,6 +69,13 @@ Dashboard dilengkapi filter interaktif sehingga pengguna dapat melakukan eksplor
 Dataset yang digunakan dalam project ini diperoleh dari Kaggle dan berisi informasi terkait kunjungan pasien pada layanan Emergency Room Hospital.
 ## Dataset Link:
 [https://www.kaggle.com/](https://www.kaggle.com/datasets/xavierberge/hospital-emergency-dataset)
+
+## Tools Used
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Microsoft Excel / CSV
+- GitHub
 
 ## Business Insights
 Dashboard ini dapat membantu rumah sakit dalam:
