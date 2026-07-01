@@ -18,7 +18,7 @@ Tujuan utama pengembangan dashboard ini adalah:
 - Menyediakan informasi yang mudah dipahami oleh manajemen rumah sakit melalui visualisasi data yang interaktif.
 
 ## Dashboard Preview
-![Dashboard 1](PreviewDashboard_PowerBI.png)
+![Image](PreviewDashboard_PowerBI.png)
 
 ## Key Performance Indicators (KPIs)
 Dashboard menampilkan beberapa indikator utama yang digunakan untuk mengevaluasi performa layanan Emergency Room, yaitu:
